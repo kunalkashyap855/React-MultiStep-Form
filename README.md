@@ -5,6 +5,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This application renders a 3-step form for taking in user details. The form has been made using React Hooks, [MaterialUI](https://material-ui.com/) and [Formik](https://jaredpalmer.com/formik). After completing the 3 steps and submitting the form, you can check the console to see all the submitted values of the form. If you want to use this form in your project, you can simply remove the ```console.log()``` and make a ```POST``` request to your database.
 
+## Screenshots
+
+![Step 1](https://img.techpowerup.org/200509/screencapture-sjdew-csb-app-1589004393441.png)
+![Step 2](https://img.techpowerup.org/200509/screencapture-sjdew-csb-app-1589004408233.png)
+![Confirmation Page](https://img.techpowerup.org/200509/screencapture-sjdew-csb-app-1589004468552.png)
+
 ## Installation
 - Clone the repo in your terminal by clicking the _green_ clone or download button at the top right and copyin the url
 - In your terminal, type ```git clone URL```
